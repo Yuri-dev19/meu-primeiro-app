@@ -9,4 +9,3 @@ export function login() {
 export function logout() {
   usuarioLogado.set(false);
 }
-
